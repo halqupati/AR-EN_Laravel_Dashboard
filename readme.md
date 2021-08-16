@@ -1,4 +1,4 @@
-## Laravel 5.6 AR-EN-AdminPanel Demo
+## Laravel 8 AR-EN-AdminPanel Demo
 
 
 ![Screenshot from 2021-07-05 16-57-45](https://user-images.githubusercontent.com/48286288/129627263-8e05bbc4-0059-481d-92bd-4ed744c3098e.png)
