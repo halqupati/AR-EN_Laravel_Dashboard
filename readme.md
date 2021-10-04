@@ -19,5 +19,3 @@
 ### License
 
 Please use and re-use however you want.
-## Laravel 8 Multi-language AdminPanel Demo
-
